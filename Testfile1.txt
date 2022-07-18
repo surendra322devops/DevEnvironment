@@ -3,3 +3,5 @@ This is Commit 1 - GitCommit1
 This is Commit 2 - GitCommit2
 
 This is Commit 3 - GitCommit3
+
+This is Commit 4 - GitCommit4
